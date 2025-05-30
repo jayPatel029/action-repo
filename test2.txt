@@ -1,3 +1,5 @@
 this is a new file now this activity should be stored in mongodb
 
 testing data upload in mongodb
+
+updated schema
