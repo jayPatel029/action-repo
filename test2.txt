@@ -3,11 +3,3 @@ this is a new file now this activity should be stored in mongodb
 testing data upload in mongodb
 
 updated schema
-
-this is dev branch 
-
-
-changes in dev brnach
-
-
-this is test_pr
